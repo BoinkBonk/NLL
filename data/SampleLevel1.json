@@ -1,16 +1,22 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 128773867,
+    "name": "Ok Okrus",
+    "author": "BananaBunnz",
+    "creators": ["BananaBunnz"],
+    "verifier": "Okruskov",
+    "verification": "https://youtu.be/lsHCNwJJm4U",
+    "percentToQualify": "70",
+    "password": "00000",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Placeholder",
+            "link": "https://www.youtube.com/watch?v=NpEaa2P7qZI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Placeholder",
+            "link": "https://www.youtube.com/watch?v=NpEaa2P7qZI",
             "percent": 100,
             "hz": 360
         }
