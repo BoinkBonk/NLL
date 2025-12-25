@@ -1,0 +1,24 @@
+{
+    "id": 126681120,
+    "name": "Purple Hue",
+    "author": "BananaBunnz",
+    "creators": ["BananaBunnz"],
+    "verifier": "Okruskov",
+    "verification": "https://youtu.be/Ad-vn4gDHpc",
+    "percentToQualify": "70",
+    "password": "00000",
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtu.be/Ad-vn4gDHpc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Placeholder",
+            "link": "https://youtu.be/Ad-vn4gDHpc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
