@@ -1,22 +1,22 @@
 {
     "id": 128773867,
-    "name": "Alright Okrus",
+    "name": "Silent Boto",
     "author": "BananaBunnz",
     "creators": ["BananaBunnz"],
     "verifier": "Okruskov",
-    "verification": "https://www.youtube.com/watch?v=9JpP7ooVsMg",
+    "verification": "https://youtu.be/MsJWc7yk3ug",
     "percentToQualify": "70",
     "password": "00000",
     "records": [
         {
             "user": "Placeholder",
-            "link": "https://www.youtube.com/watch?v=9JpP7ooVsMg",
+            "link": "https://youtu.be/MsJWc7yk3ug",
             "percent": 100,
             "hz": 360
         },
         {
             "user": "Placeholder",
-            "link": "https://www.youtube.com/watch?v=9JpP7ooVsMg",
+            "link": "https://youtu.be/MsJWc7yk3ug",
             "percent": 100,
             "hz": 360
         }
