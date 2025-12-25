@@ -4,19 +4,19 @@
     "author": "BananaBunnz",
     "creators": ["BananaBunnz"],
     "verifier": "Okruskov",
-    "verification": "https://youtu.be/lsHCNwJJm4U",
+    "verification": "https://www.youtube.com/watch?v=EJXwunypm3A",
     "percentToQualify": "70",
     "password": "00000",
     "records": [
         {
             "user": "Placeholder",
-            "link": "https://www.youtube.com/watch?v=NpEaa2P7qZI",
+            "link": "https://www.youtube.com/watch?v=EJXwunypm3A",
             "percent": 100,
             "hz": 360
         },
         {
             "user": "Placeholder",
-            "link": "https://www.youtube.com/watch?v=NpEaa2P7qZI",
+            "link": "https://www.youtube.com/watch?v=EJXwunypm3A",
             "percent": 100,
             "hz": 360
         }
