@@ -1,0 +1,24 @@
+{
+    "id": 128773867,
+    "name": "Silent Boto 2",
+    "author": "BananaBunnz",
+    "creators": ["BananaBunnz"],
+    "verifier": "Okruskov",
+    "verification": "https://youtu.be/Btl7Q-CAIJg",
+    "percentToQualify": "70",
+    "password": "00000",
+    "records": [
+        {
+            "user": "Placeholder",
+            "link": "https://youtu.be/Btl7Q-CAIJg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Placeholder",
+            "link": "https://youtu.be/Btl7Q-CAIJg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
